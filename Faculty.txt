@@ -1,0 +1,79 @@
+Z23115435:Candace:Jurischk:8/1/2000:Assistant Professor:104545:15A FOUNTAIN MANOR DR:Boca Raton:FL                                      :33431:5617889033:cjurischk@my.fau.edu:2000
+Z23115476:Pat:Rowlett:11/9/2000:Associate Professor:90922:5063 CAMERON RD:Delray Beach:FL                                      :33531:5618597155:prowlett@my.fau.edu:2020
+Z23115511:Diane:Richardson:2/17/2001:Assistant Professor:41613:4824 FARM POND LN:Boynton Beach:FL                                      :34223:5617999078:drichards@my.fau.edu:2011
+Z23115519:Martin:Healey:2/17/2001:Professor:104737:111 YEOPIM CIRCLE:Boynton Beach:FL                                      :34223:5615098051:mhealey@my.fau.edu:2011
+Z23115566:Melissa:Pratt:5/28/2001:Professor:96403:424 MCPHEE DRIVE:Coral Spring:FL                                      :33033:9542270838:mpratt@my.fau.edu:2024
+Z23115591:Carol:Ritchey:9/5/2001:Professor:90269:4912 LILES ROAD:Boynton Beach:FL                                      :34227:5617918786:critchey@my.fau.edu:2012
+Z23115682:Betty:Herje:12/14/2001:Professor:142453:1137 CHILMARK AVE:Deerfield Beach:FL                                      :34045:9545451730:bherje@my.fau.edu:2019
+Z23115772:Barbara:Kuklentz:12/14/2001:Associate Professor:123325:201 WOODS REAM DR:Greenacres:FL                                      :33329:5614812521:bkuklentz@my.fau.edu:2025
+Z23115861:Bob:Lachner:3/24/2002:Professor:130237:2012 LAWRENCE DR:Boynton Beach:FL                                      :34229:5617922053:blachner@my.fau.edu:2028
+Z23115912:Dianne:Michael:7/2/2002:Associate Professor:67019:2924 HICKORY HILL RD:Boca Raton:FL                                      :33422:5618767990:dmichael@my.fau.edu:2030
+Z23115964:Dick:Stallings:10/10/2002:Assistant Professor:86283:6424 PERNOD WAY:Deerfield Beach:FL                                      :34035:9542943568:dstalling@my.fau.edu:2028
+Z23115967:Karen:Young:1/18/2003:Assistant Professor:92168:PO BOX 93:Deerfield Beach:FL                                      :34080:9545482085:kyoung@my.fau.edu:2014
+Z23115996:Frederick:Thorson:1/18/2003:Assistant Professor:50711:738 EVERETTS CREEK:Boca Raton:FL                                      :33430:5617872828:fthorson@my.fau.edu:2026
+Z23116032:Mandy:Walker:1/18/2003:Professor:148519:8411 CAMELOT DRIVE:Deerfield Beach:FL                                      :34033:9542296047:mwalker@my.fau.edu:2016
+Z23116080:Jane:Halfhill:4/28/2003:Associate Professor:37631:104 BARDSEY CT:Wellington:FL                                      :33228:5612821818:jhalfhill@my.fau.edu:2006
+Z23116082:Jo:Jacobs:8/6/2003:Professor:41432:1427 KEITH COURT:Pompano Beach:FL                                      :34247:9546027462:jjacobs@my.fau.edu:2014
+Z23116100:Debra:Hitchcock:8/6/2003:Professor:133280:1203 KINGSBROOK RD:Greenacres:FL                                      :33329:5618596967:dhitchcoc@my.fau.edu:2011
+Z23116151:John:Southern:8/6/2003:Associate Professor:148606:6311 RIVER HILLS DR:Lake Worth:FL                                      :33062:5617849625:jsouthern@my.fau.edu:2012
+Z23116246:Bridget:Whitener:11/14/2003:Professor:135530:9509 NW NEWGATE DR:Boynton Beach:FL                                      :34225:5619625610:bwhitener@my.fau.edu:2012
+Z23116257:Elinda:See:2/22/2004:Associate Professor:109016:5449 WHITING AVE:Deerfield Beach:FL                                      :34035:9542456789:esee@my.fau.edu:2014
+Z23116317:Norm:Wilhide:2/22/2004:Professor:109241:B CO 407TH FSB:Deerfield Beach:FL                                      :34045:9546785295:nwilhide@my.fau.edu:2024
+Z23116326:Carol:Pickard:6/1/2004:Professor:99000:4102 LEAFMORE STREET:Wellington:FL                                      :33224:5611578946:cpickard@my.fau.edu:2025
+Z23116368:Keith:Wilson:9/9/2004:Associate Professor:55102:PO BOX 10636:Deerfield Beach:FL                                      :34035:9544692587:kwilson@my.fau.edu:2026
+Z23116411:Naomi:Oliphant:12/18/2004:Assistant Professor:14880:3504 EDGEMONT RD:Deerfield Beach:FL                                      :34036:9545269874:noliphant@my.fau.edu:2026
+Z23116436:Jean:Neal:12/18/2004:Assistant Professor:61800:325 YORKSHIRE LN:Boynton Beach:FL                                      :34221:5617729223:jneal@my.fau.edu:2024
+Z23116443:Fred:Terry:12/18/2004:Assistant Professor:72881:7208 SAINT LEDGER DR:Boca Raton:FL                                      :33431:5618471763:fterry@my.fau.edu:2025
+Z23116519:Larry:Parker:12/18/2004:Professor:141468:3721 DUXFORD DRIVE:Palm Beach Gardens:FL                                      :33710:5617925831:lparker@my.fau.edu:2026
+Z23116602:Janice:Hartis Jr.:12/18/2004:Associate Professor:108751:1100 MAYBERRY PL:Riviera Beach:FL                                      :35400:5612497509:jhartis j@my.fau.edu:2011
+Z23116680:Carol:Mortenson:12/18/2004:Assistant Professor:37460:3116 LANTERN WAY:Boca Raton:FL                                      :33424:5618510531:cmortenso@my.fau.edu:2020
+Z23116731:David:Matthews:12/18/2004:Associate Professor:42206:2420 WENTWORTH ST:Ft. Lauderdale:FL                                      :34275:9546027089:dmatthews@my.fau.edu:2014
+Z23116744:Linda:Harrington:3/28/2005:Professor:31084:109 CAPE FEAR DRIVE:Deerfield Beach:FL                                      :34025:9543759601:lharringt@my.fau.edu:2024
+Z23116745:Margaret:Phillips:3/28/2005:Assistant Professor:28873:4102 LEAFMORE ST:Wellington:FL                                      :33223:5613756562:mphillips@my.fau.edu:2000
+Z23116800:Nancy:Rhynes:7/6/2005:Associate Professor:40091:481 MCCOPPIN CT.:Boynton Beach:FL                                      :34231:5618710347:nrhynes@my.fau.edu:2006
+Z23116873:Karen:King:7/6/2005:Professor:92575:1805 HUNTINGTON RD:Deerfield Beach:FL                                      :34035:9541958125:kking@my.fau.edu:2000
+Z23116962:Dan:Thorpe:10/14/2005:Associate Professor:90148:738 ARJEAN DR:Deerfield Beach:FL                                      :34036:9544812485:dthorpe@my.fau.edu:2006
+Z23116998:Dave:Wall:10/14/2005:Associate Professor:75657:860 PELICAN BAY:Oakland Park:FL                                      :33901:9549333773:dwall@my.fau.edu:2014
+Z23117003:Anne:Payne:1/22/2006:Assistant Professor:115476:3904 CASCADE DR:Deerfield Beach:FL                                      :34030:9544891231:apayne@my.fau.edu:2020
+Z23117062:Greg:Koehler:5/2/2006:Assistant Professor:16072:186 TRILLIUM PLACE:Boca Raton:FL                                      :33433:5618471669:gkoehler@my.fau.edu:2011
+Z23117099:Gail:Linn:5/2/2006:Professor:87505:2126 PINE DRIVE:Boca Raton:FL                                      :33422:5618722824:glinn@my.fau.edu:2020
+Z23117193:Leigh:Gurganus:8/10/2006:Assistant Professor:99210:1019 BROWNING RD.:Dania Beach:FL                                      :33423:9544564894:lgurganus@my.fau.edu:2011
+Z23117247:Dot:Kiziah:11/18/2006:Professor:63687:1817 DEARMON DR.:Boca Raton:FL                                      :33421:5619132489:dkiziah@my.fau.edu:2025
+Z23117341:Jan:Kraft:2/26/2007:Professor:138034:19903 225TH ST:Deerfield Beach:FL                                      :34036:9541325784:jkraft@my.fau.edu:2030
+Z23117430:Andrew:Lein:6/6/2007:Associate Professor:72580:207 TRAVIS LN:Greenacres:FL                                      :33329:5614695790:alein@my.fau.edu:2011
+Z23117526:Dick:Weaver:6/6/2007:Professor:77444:9019 WILLOW TRACE COURT:Lauderhill:FL                                      :33711:9542435846:dweaver@my.fau.edu:2020
+Z23117602:Dianne:McNeice:9/14/2007:Professor:54978:2714 VON THURINGER CT:Boynton Beach:FL                                      :34223:5617991734:dmcneice@my.fau.edu:2024
+Z23117643:Martha Baker:Sael:9/14/2007:Assistant Professor:94235:512 MEADOWOOD DRIVE:Boynton Beach:FL                                      :34223:5615098343:msael@my.fau.edu:2016
+Z23117672:Jeff:Steffen:9/14/2007:Associate Professor:37919:6521 GATERIDGE DRIVE #202:Boynton Beach:FL                                      :34221:5614526027:jsteffen@my.fau.edu:2006
+Z23117758:Carol:Myers:12/23/2007:Professor:91475:3203 SANDBURG:Plantation:FL                                      :33347:9547720766:cmyers@my.fau.edu:2006
+Z23117819:Georgia:Miller:12/23/2007:Professor:85146:3015 COTTAGE PL APT G:Davie:FL                                      :34891:9545613458:gmiller@my.fau.edu:2016
+Z23117827:Ann:Weller:12/23/2007:Associate Professor:111971:9201 Sulkirk Dr.:Deerfield Beach:FL                                      :34036:9543245789:aweller@my.fau.edu:2011
+Z23117909:Bob:Schoolmeester:4/1/2008:Professor:119901:5307 HOLLY RIDGE RD:Boynton Beach:FL                                      :34221:5613956553:bschoolme@my.fau.edu:2020
+Z23117944:Ed:Setzer:7/10/2008:Associate Professor:73069:555 WHISTLING SWAN DRIVE:Hollywood:FL                                      :34222:9543345505:esetzer@my.fau.edu:2024
+Z23117959:Elaine:Hayes:10/18/2008:Professor:50867:111 KNOLLWOOD CT:Deerfield Beach:FL                                      :34034:9545647891:ehayes@my.fau.edu:2019
+Z23117978:Kathleen:Stewart:1/26/2009:Professor:80449:662 ANSLEY CT:Deerfield Beach:FL                                      :34036:9545187851:kstewart@my.fau.edu:2025
+Z23118018:Carolyn:Holbrook:5/6/2009:Associate Professor:73388:12204 QUEENSBRIDGE CT:Deerfield Beach:FL                                      :34035:9542125851:cholbrook@my.fau.edu:2024
+Z23118098:Gretchen:Johnson:5/6/2009:Assistant Professor:58693:1508 PAGAN RD:Boca Raton:FL                                      :33432:5618633898:gjohnson@my.fau.edu:2028
+Z23118167:Karen:Sanford:5/6/2009:Associate Professor:73173:5201 FIELDBROOK DR:Tamarac:FL                                      :33433:9545104855:ksanford@my.fau.edu:2030
+Z23118258:Armenta:Pohlig:8/14/2009:Associate Professor:99050:4132 WHITNEY PL:Deerfield Beach:FL                                      :34034:9544478784:apohlig@my.fau.edu:2028
+Z23118322:Bernie:Kepley:11/22/2009:Assistant Professor:61308:1705 RIVER RD.:Deerfield Beach:FL                                      :34035:9547824956:bkepley@my.fau.edu:2030
+Z23118382:Lori:Kinlaw:11/22/2009:Professor:66581:1810 PARK DR:Sunrise:FL                                      :34036:9547894567:lkinlaw@my.fau.edu:2020
+Z23118411:Dorothy:Shade:3/2/2010:Associate Professor:70183:5700 DUMFRIES DR:Greenacres:FL                                      :33331:5616781079:dshade@my.fau.edu:2026
+Z23118424:Doris:RUSSELL:6/10/2010:Associate Professor:47150:5105 HUNTINGDON DR:Cooper City:FL                                      :33349:9545956317:drussell@my.fau.edu:2020
+Z23118473:Jeff:Mitchell:6/10/2010:Assistant Professor:76575:3043 MARLBOROUGH RD:Wellington:FL                                      :33273:5612187720:jmitchell@my.fau.edu:2020
+Z23118499:Faye (Liz):Snyder:6/10/2010:Assistant Professor:47093:624 KANKAKEE CT:Miami:FL                                      :35932:9544962366:fsnyder@my.fau.edu:2006
+Z23118569:Brian:Peterson:6/10/2010:Assistant Professor:21994:403 THE CAPE BLVD.:Miami Gardens:FL                                      :33854:9548954578:bpeterson@my.fau.edu:2006
+Z23118650:Colleen:Rohland:6/10/2010:Associate Professor:73752:5010 SIX FORKS ROAD:Pembroke Pines:FL                                      :38607:9549453135:crohland@my.fau.edu:2028
+Z23118683:Kathy:Ketner:9/18/2010:Professor:79101:1713 SWORDFISH LANE:Boca Raton:FL                                      :33427:5617902642:kketner@my.fau.edu:2025
+Z23118748:Kay:Pawlukiewicz:12/27/2010:Assistant Professor:17394:3850 STONEY CREEK CHURCH RD:Boca Raton:FL                                      :33427:5617828195:kpawlukie@my.fau.edu:2012
+Z23118831:Dolly:Maiden:12/27/2010:Professor:115512:2320 ROCKLANE DRIVE:Deerfield Beach:FL                                      :34035:9544315789:dmaiden@my.fau.edu:2011
+Z23118842:Bill:Slaughter:4/6/2011:Professor:16466:6101 BELLOW ST:Boynton Beach:FL                                      :34227:5617937066:bslaughte@my.fau.edu:2012
+Z23118932:Bob:Schultz:7/15/2011:Assistant Professor:15213:5321 SUN COAST DR.:Boca Raton:FL                                      :33424:5617452135:bschultz@my.fau.edu:2000
+Z23118955:Debbie:Schue:10/23/2011:Assistant Professor:46258:5313 INGLEWOOD LANE:Boynton Beach:FL                                      :34230:5617919585:dschue@my.fau.edu:2011
+Z23118994:Ann:Sloan:1/31/2012:Associate Professor:112925:611 MIDDLE SOUND LOOP RD. #3:Aventura:FL                                      :33340:9548520684:asloan@my.fau.edu:2006
+Z23119021:Doris:Weber:5/10/2012:Assistant Professor:56709:903 DANIEL DRIVE:Boynton Beach:FL                                      :34230:5617929017:dweber@my.fau.edu:2016
+Z23119121:Bert:Neal:5/10/2012:Associate Professor:37360:326 BRECKENRIDGE DR:Deerfield Beach:FL                                      :34031:9545981607:bneal@my.fau.edu:2025
+Z23119185:Kathe:Strommen:8/18/2012:Assistant Professor:79291:702 RED FOREST TRL:Deerfield Beach:FL                                      :34035:9548483365:kstrommen@my.fau.edu:2028
+Z23119222:Ed:Ioos:8/18/2012:Professor:142331:1404 MAPLE ST:Coral Gables:FL                                      :34283:9542790114:eioos@my.fau.edu:2006
+Z23119233:Joyce:White:11/26/2012:Assistant Professor:89033:9424 PALM BAY CIRCLE:Deerfield Beach:FL                                      :34034:9548945132:jwhite@my.fau.edu:2014
+Z23119307:Hugh:Jones:11/26/2012:Assistant Professor:95603:1515 CAROMAR PL:Coral Spring:FL                                      :33033:9545710048:hjones@my.fau.edu:2012
